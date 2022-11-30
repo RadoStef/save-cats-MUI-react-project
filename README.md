@@ -1,7 +1,13 @@
-# save-cats-MUI-react-project
+# MUI and React single page project
 
-<h3> Help animals = React + MUI project </h3>
-This is one small project that I made with React and Material UI.
+<p>This is one small project that I made with my colleagues during the React marathon in SoftServe.</p>
+<p>The site is fully responsibe, and there have been used components from MUI.</p>
+<p>My contribution to the project are the following component directories: </p>
+<ul>
+  <li> Banner </li>
+  <li> Header </li>
+  <li> IconsElement </li>
+</ul>
 
 <img src='https://www.sitefocus.eu/gitpics/help-animals-react.JPG'>
 <hr>
